@@ -1,16 +1,8 @@
 <!-- Banner -->
 <h1 align="center">👋 Hey there, I'm <span style="color:#00bcd4;">Amanuel Wendimu</span></h1>
-<h3 align="center">💻 Backend & Full-Stack Developer | Passionate about Scalable Web Systems</h3>
+<h3 align="center">💻 Full-Stack Developer | Passionate about Scalable Web Systems</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanuel-2&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amanuel-2&theme=algolia&no-bg=true&no-frame=true&margin-w=15" alt="trophies" />
-  </a>
-</p>
 
 ---
 
